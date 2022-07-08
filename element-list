@@ -1,0 +1,16 @@
+com.ryder
+com.ryder.cleaners
+com.ryder.dataReaders.CSVReaders
+com.ryder.dataReaders.PDFReaders
+com.ryder.dataReaders.PDFReaders.Strategies
+com.ryder.dataReaders.XLSReaders
+com.ryder.dowloaders
+com.ryder.globalContainers
+com.ryder.gui
+com.ryder.gui.manualFill
+com.ryder.protectionProduct
+com.ryder.register
+com.ryder.translators
+com.ryder.webParser
+com.ryder.workSteps
+com.ryder.writers
