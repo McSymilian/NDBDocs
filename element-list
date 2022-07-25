@@ -9,6 +9,12 @@ com.ryder.globalContainers
 com.ryder.gui
 com.ryder.gui.manualFill
 com.ryder.protectionProduct
+com.ryder.protectionProduct.label
+com.ryder.protectionProduct.userecord.crop
+com.ryder.protectionProduct.userecord.dose
+com.ryder.protectionProduct.userecord.record
+com.ryder.protectionProduct.userecord.record.merged
+com.ryder.protectionProduct.userecord.treatments
 com.ryder.register
 com.ryder.translators
 com.ryder.webParser
