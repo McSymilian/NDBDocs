@@ -7,7 +7,10 @@ com.ryder.dataReaders.XLSReaders
 com.ryder.dowloaders
 com.ryder.globalContainers
 com.ryder.gui
-com.ryder.gui.manualFill
+com.ryder.gui.info
+com.ryder.gui.manual
+com.ryder.holder
+com.ryder.listener
 com.ryder.protectionProduct
 com.ryder.protectionProduct.label
 com.ryder.protectionProduct.userecord.crop
